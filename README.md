@@ -82,6 +82,8 @@ The goal is to:
 | DTC       | 0.99928 | 0.99927 | 0.99910 |
 | NB        | 0.96975 | 0.93547 | 0.93136 |
 
+<img width="1293" height="609" alt="Accuracy Comparison Chart" src="https://github.com/user-attachments/assets/4150fdf3-9bc9-4947-932c-60f67545687b" />
+
 ---
 
 ## 🏆 Key Insights
